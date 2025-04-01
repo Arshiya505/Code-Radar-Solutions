@@ -1,7 +1,8 @@
 #include<stdio.h>
-int main() {
+int main() 
+{
     int findMSB(int num);
-    if ( num==0);
+    if (num==0);
     return 0;
     int msb = 1;
     while(num>1){
